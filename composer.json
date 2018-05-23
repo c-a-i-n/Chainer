@@ -1,5 +1,5 @@
 {
-    "name": "Caain/chainer",
+    "name": "caain/chainer",
     "description": "Create logical dependencies tree",
     "type": "library",
     "license": "MIT",
