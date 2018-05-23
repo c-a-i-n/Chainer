@@ -1,6 +1,7 @@
 {
     "name": "caain/chainer",
     "description": "Create logical dependencies tree",
+    "minimum-stability": "dev",
     "type": "library",
     "license": "MIT"
 }
