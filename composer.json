@@ -3,7 +3,6 @@
     "description": "Create logical dependencies tree",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev",
     "require": {},
     "extra": {
         "laravel": {
