@@ -2,13 +2,5 @@
     "name": "caain/chainer",
     "description": "Create logical dependencies tree",
     "type": "library",
-    "license": "MIT",
-    "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Caain\\Chainer\\ChainerServiceProvider"
-            ]
-        }
-    }
+    "license": "MIT"
 }
